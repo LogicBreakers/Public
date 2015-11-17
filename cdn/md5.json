@@ -1,0 +1,5 @@
+{
+	"API.dll" : "RandomMD5",
+	"LogicBreakers.dll" : "RandomMD5",
+	"UpdatePackage.dll" : "RandomMD5"
+}
