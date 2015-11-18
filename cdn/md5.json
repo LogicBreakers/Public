@@ -1,5 +1,17 @@
 {
-	"API.dll" : "RandomMD5",
-	"LogicBreakers.dll" : "RandomMD5",
-	"UpdatePackage.dll" : "RandomMD5"
+	"Md5List":[
+		{
+			"Name": "API.dll",
+			"MD5" : "RandomMD5"
+	
+			},
+		{
+			"Name": "LogicBreakers.dll",
+			"MD5": "RandomMD5"
+			},
+		{
+			"Name": "YoMomaDll",
+			"MD5": "RandomMD5"
+
+			}]
 }
