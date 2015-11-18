@@ -2,16 +2,19 @@
 	"Md5List":[
 		{
 			"Name": "API.dll",
-			"MD5" : "RandomMD5"
+			"MD5" : "RandomMD5",
+			"LocalPath" : "/Assemblies/HearthStone/"
 	
 			},
 		{
 			"Name": "LogicBreakers.dll",
-			"MD5": "RandomMD5"
+			"MD5": "RandomMD52",
+			"LocalPath" : "/Resources/"
 			},
 		{
 			"Name": "YoMomaDll",
-			"MD5": "RandomMD5"
+			"MD5": "RandomMD53",
+			"LocalPath" : "/Assemblies/HearthStone/"
 
 			}]
 }
