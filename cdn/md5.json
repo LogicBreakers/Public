@@ -4,5 +4,45 @@
 			"Name": "LogicBreakers.exe",
 			"MD5": "0cf2105863cbe11f37aee5705d5ab560",
 			"LocalPath": "/Client/"
+			},
+		{
+			"Name": "Qt5Widgets.dll",
+			"MD5": "daa1bfd2f73eccd2b4f617542d5fdb73",
+			"LocalPath": "/Client/"
+			},
+		{
+			"Name": "Qt5Network.dll",
+			"MD5": "5006fdcc4517a0cffb538497a8f43131",
+			"LocalPath": "/Client/"
+			},
+		{
+			"Name": "Qt5Gui.dll",
+			"MD5": "93a0cbcb19552f04438e487a0f18b16d",
+			"LocalPath": "/Client/"
+			},
+		{
+			"Name": "Qt5Core.dll",
+			"MD5": "5c247738272ab45a7f319ac44393b111",
+			"LocalPath": "/Client/"
+			},
+		{
+			"Name": "icuuc53.dll",
+			"MD5": "ce00ec9be33c4df187e63ec20b631217",
+			"LocalPath": "/Client/"
+			},
+		{
+			"Name": "icuin53.dll",
+			"MD5": "6decda70cd0cda16c54b1103eb3e7e0f",
+			"LocalPath": "/Client/"
+			},
+		{
+			"Name": "icudt53.dll",
+			"MD5": "568b66034dbdf2c757f95ebdaa21037e",
+			"LocalPath": "/Client/"
+			},
+		{
+			"Name": "qwindows.dll",
+			"MD5": "8a002460dacf4c4f0f8c4b41aa8197c8",
+			"LocalPath": "/Client/platforms/"
 			}]
 }
