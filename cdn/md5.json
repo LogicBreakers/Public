@@ -52,7 +52,7 @@
 			},
 		{
 			"Name": "LogicBreakers.dll",
-			"MD5": "50653afa01297ab52a71ff248091a1b6",
+			"MD5": "e96beab23e58b33ecdad85a0669b1549",
 			"LocalPath": "/Client/Resources/"
 			},
 		{
@@ -77,7 +77,7 @@
 			},
 		{
 			"Name": "API.dll",
-			"MD5": "37fba478b52882cff75aac21975faf65",
+			"MD5": "e6c3c40c533ed69b23c106f657d1e66b",
 			"LocalPath": "/Games/Hearthstone/Assemblies/Libs/"
 			},
 		{
