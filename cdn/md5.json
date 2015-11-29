@@ -2,7 +2,7 @@
 	"Md5List":[
 		{
 			"Name": "LogicBreakers.exe",
-			"MD5": "0cf2105863cbe11f37aee5705d5ab560",
+			"MD5": "a347ade928f4e47fe9e0fa2d4bb75292",
 			"LocalPath": "/Client/"
 			},
 		{
@@ -41,8 +41,48 @@
 			"LocalPath": "/Client/"
 			},
 		{
+			"Name": "Updater.exe",
+			"MD5": "0e1685d0b645faa74d3993b3b11f6194",
+			"LocalPath": "/Client/"
+			},
+		{
 			"Name": "qwindows.dll",
 			"MD5": "8a002460dacf4c4f0f8c4b41aa8197c8",
 			"LocalPath": "/Client/platforms/"
+			},
+		{
+			"Name": "LogicBreakers.dll",
+			"MD5": "50653afa01297ab52a71ff248091a1b6",
+			"LocalPath": "/Client/Resources/"
+			},
+		{
+			"Name": "carddb.json",
+			"MD5": "5aa83bd82d8f092f60298c379c1729cd",
+			"LocalPath": "/Games/Hearthstone/Resources/"
+			},
+		{
+			"Name": "silverfishdb.txt",
+			"MD5": "fd4d0acd183a3c6a21fa91668c428b99",
+			"LocalPath": "/Games/Hearthstone/Resources/"
+			},
+		{
+			"Name": "silverfishsettings.txt",
+			"MD5": "6abed54f323903b3b0126f29f9654139",
+			"LocalPath": "/Games/Hearthstone/Resources/"
+			},
+		{
+			"Name": "Silver.exe",
+			"MD5": "c55eb52726d67d3a1d2695eff862a885",
+			"LocalPath": "/Games/Hearthstone/Resources/"
+			},
+		{
+			"Name": "API.dll",
+			"MD5": "c9cf9785b60d54c507fdf43c8d1dcb7b",
+			"LocalPath": "/Games/Hearthstone/Assemblies/Libs/"
+			},
+		{
+			"Name": "SilverFish.dll",
+			"MD5": "4aaf3f8fbd724df8e43551ed12fe9407",
+			"LocalPath": "/Games/Hearthstone/Assemblies/Globals/"
 			}]
 }
